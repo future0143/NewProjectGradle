@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TipServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-08-31T21:31:19" hostname="FENIKS0143" time="0.64">
+  <properties/>
+  <testcase name="[1] 1000" classname="TipServiceTest" time="0.591"/>
+  <testcase name="[2] 1500" classname="TipServiceTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
